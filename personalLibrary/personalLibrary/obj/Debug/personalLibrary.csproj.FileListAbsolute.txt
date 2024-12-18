@@ -1,0 +1,15 @@
+C:\Users\GamePC\source\repos\personalLibrary\personalLibrary\bin\Debug\personalLibrary.exe.config
+C:\Users\GamePC\source\repos\personalLibrary\personalLibrary\bin\Debug\personalLibrary.exe
+C:\Users\GamePC\source\repos\personalLibrary\personalLibrary\bin\Debug\personalLibrary.pdb
+C:\Users\GamePC\source\repos\personalLibrary\personalLibrary\obj\Debug\personalLibrary.csproj.AssemblyReference.cache
+C:\Users\GamePC\source\repos\personalLibrary\personalLibrary\obj\Debug\personalLibrary.Properties.Resources.resources
+C:\Users\GamePC\source\repos\personalLibrary\personalLibrary\obj\Debug\personalLibrary.csproj.GenerateResource.cache
+C:\Users\GamePC\source\repos\personalLibrary\personalLibrary\obj\Debug\personalLibrary.csproj.CoreCompileInputs.cache
+C:\Users\GamePC\source\repos\personalLibrary\personalLibrary\obj\Debug\personalLibrary.exe
+C:\Users\GamePC\source\repos\personalLibrary\personalLibrary\obj\Debug\personalLibrary.pdb
+C:\Users\GamePC\source\repos\personalLibrary\personalLibrary\obj\Debug\personalLibrary.FormLogin.resources
+C:\Users\GamePC\source\repos\personalLibrary\personalLibrary\bin\Debug\MySql.Data.dll
+C:\Users\GamePC\source\repos\personalLibrary\personalLibrary\bin\Debug\MySql.Data.xml
+C:\Users\GamePC\source\repos\personalLibrary\personalLibrary\obj\Debug\personalLibrary.csproj.CopyComplete
+C:\Users\GamePC\source\repos\personalLibrary\personalLibrary\obj\Debug\personalLibrary.FormRegister.resources
+C:\Users\GamePC\source\repos\personalLibrary\personalLibrary\obj\Debug\personalLibrary.FormMain.resources
